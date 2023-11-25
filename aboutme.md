@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Kshitij Kumbar
+subtitle: Who am I?
 ---
-
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am currently a Behavior Planning Engineer at Lucid Motors, developing vehicle behaviors for Highway Assist Functionalities. My day to day work involves finding gaps and measuring costs! 
+
+I graduated from Stanford with a Master of Science in Mechanical Engineering(Planning and Controls) and graduated Summa Cum Laude from Ahmedabad University with a Bachelor of Technology in Mechanical Engineering. My research focus in undergraduate studies had been in implementation of nonlinear control for multi-body robotics under the guidance of Prof. Harshal Oza.
+
+Apart from my professional and academic pursuits, I spend my time working on home automation DIY projects and disassembling old pieces of hardware and trying to to put them back together(often unsuccessfully)! 
