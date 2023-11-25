@@ -3,7 +3,7 @@ layout: page
 title: Kshitij Kumbar
 subtitle: Who am I?
 ---
-![Kshitij with a Lucid](/_data/IMG_7843.jpg)
+![Kshitij with a Lucid]({{ '/_data/IMG_7843.jpg' | relative_url }})
 ### My story
 
 I am currently a Behavior Planning Engineer at Lucid Motors, developing vehicle behaviors for Highway Assist Functionalities. My day to day work involves finding gaps and measuring costs! 
