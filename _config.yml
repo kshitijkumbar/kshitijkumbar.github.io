@@ -22,8 +22,9 @@ author: Kshitij Kumbar
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Resume: "https://drive.google.com/file/d/1XGMUthQfNbhHtPbLIct2osSnWRmhXRZs/view?usp=sharing"
+    # - Beautiful Jekyll: "https://beautifuljekyll.com"
+    # - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://kshitijkumbar.github.io"
 
 ################
