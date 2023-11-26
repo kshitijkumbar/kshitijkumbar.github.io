@@ -4,7 +4,7 @@ title: Project Bookworm
 subtitle: Your very own librarian!
 gh-repo: kshitijkumbar/Project-Bookworm
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [project]
 comments: true
 author: Kshitij Kumbar
 ---
